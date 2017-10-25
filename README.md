@@ -6,13 +6,13 @@ Suhas Hegde
 Gapminder and the "Gapminder dataset"
 -------------------------------------
 
--   "Gapminder" is a non-profit organisation concentrated on educating people about fact based information
+-   ["Gapminder"](https://www.gapminder.org) is a non-profit organisation concentrated on educating people about fact based information
 
 -   Based out of Sweden
 
 -   Promotes fact based view of the world
 
--   The dataset contains data about life-expectancy, GDP, population of all the countries in the world beginning from 1952 till 2007
+-   [The dataset](https://www.gapminder.org/data/) contains data about life-expectancy, GDP, population of all the countries in the world beginning from 1952 till 2007
 
 Exploratory graphs
 ------------------
